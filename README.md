@@ -1,0 +1,6 @@
+# 在线喊单源码 PHP网页版视频聊天室 行情在线直播在线喊单系统
+
+●本店保证源码完整性，以及可用性，本店所有源码都经过店主亲自测试，不提供任何技术服务，如需代安装，请加80元，如需提供修改服务，请联系店主，另行收费！<br>●前台：http://example.com; 后台http://example.com/example.com/admin/login<br>帐号：admin 密码：123456<br>新增实用功能列表：<br>example.com，可实现@对方，有话单独对他说图片显示如下。<br>example.com，开启此功能后，前台登录房间管理员账户，即可对所有发言进行审核。审核之后，信息才会发送到公共屏幕，而发言者自己不会察觉信息是审核过之后的。（发言者发言即时发送出去了，审核不审核他自己的屏幕显示没有任何变化）。有效对所有发言过滤。觉得麻烦可以后台关闭此功能。<br>example.com，发言秒发。<br>example.com。<br>example.com。也可批量添加会员。<br>前台功能<br>在线聊天、海量在线客户显示，支持文字、表情、图片、主持人语音视频互动等多样化创新功能，让您拥有一个功能强大的专业沟通软件。有我，你就够了;规范化的喊单操作，不同级别客户权限设置，支持注册、登陆、QQ在线客服、投票、可用YY视频转播<br>新增功能：<br>游客发言，30秒才能发一次。<br>有彩条，会员等级分了7个。<br>讲师榜单，给老师投票。<br>5分钟提示游客注册。<br>新增虚拟人发言功能，虚拟人可以是会员，并且可以自己设定等级，姓名，发言内容可以自己设定内容，自己设定时间。<br>后台功能<br>网站基本配置，系统设置，虚拟假人设置，敏感词过滤，直播室管理，聊天记录查看，课程管理设置，QQ客服设置，公告等各种菜单设置;管里员角色管理，会员管理信息查询，等等多样化创新功能，满足您的各种需要。<br>应用范围<br>娱乐演示，交互。<br>企业远程会议，随时随地通过网页实现。<br>财经走势实时分析直播，客户同步互动。<br>各类教育领域音视频直播教学，在学员间充分交流。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/J9KMY" style="color: red;">https://mega-file.org/J9KMY</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
